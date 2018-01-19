@@ -1,4 +1,4 @@
-# Surrogate-Modelling
+# Surrogate Modelling
 A collection of resources for the Surrogate Modelling Working Group for the INI Programme on UQ.
 
 
