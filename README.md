@@ -2,7 +2,7 @@
 A collection of resources associated with discussions had by members of the Surrogate Modelling Working Group of the INI UQ Programme Jan-June 2018. For further info - contact Catherine Powell. 
 
 
-Suggested Reading List. The links below are to webpages where papers can be downloaded (if you have the appropriate permissions/subscription rights through your institution).
+Suggested Reading List. The links below are to webpages where papers can be downloaded (if you have the appropriate permissions/subscription rights through your institution). Note - this page is a work in progress ....
 
 
 ## Reproducing Kernel Hilbert Spaces
