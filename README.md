@@ -25,7 +25,8 @@ It has been suggested that the RKHS framework might offer a unified way to descr
 
 ## Polynomial Approximation not based on point evaluations
 
-An outlier in polynomial approximation?  Also known as non-intrusive polynomial chaos (if the polynomials chosen for the parameteric/random part are orthogonal)
+Stochastic Galerkin approximation is perhaps an outlier in polynomial approximation, in that it does not use point evaluations. It imposes a Galerkin condition, and in some sense is 'structure preserving'. Also known as intrusive polynomial chaos (if the polynomials chosen for the parameteric/random part are orthogonal).
+
 ### Stochastic Galerkin Approximation 
 
 
