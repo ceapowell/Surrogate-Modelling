@@ -36,7 +36,11 @@ http://epubs.siam.org/doi/abs/10.1137/070680540), F. Nobile, R. Tempone, and C. 
 
 ### Regression
 
+Suggestions for papers ..... ? 
+
 ### Quadrature
+
+Suggestions for papers .... ? 
 
 ## Polynomial Approximation not based on point evaluations
 
@@ -44,6 +48,12 @@ Stochastic Galerkin approximation is perhaps an outlier in polynomial approximat
 
 ### Stochastic Galerkin Approximation 
 
+- [Galerkin Finite Element Approximations of Stochastic Elliptic Partial Differential Equations](http://epubs.siam.org/doi/abs/10.1137/S0036142902418680), Ivo Babuska, Raúl Tempone, and Georgios E. Zouraris.
+
+More soon .... 
+
+
+Read More: http://epubs.siam.org/doi/abs/10.1137/S0036142902418680
 
 ## Comparison Papers 
 
