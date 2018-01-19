@@ -15,9 +15,12 @@ It has been suggested that the RKHS framework might offer a unified way to descr
 
 ## Polynomial Approximation based on point evaluations
 
-This includes: 
-### Stochastic Collocation 
+... also known as stochastic collocation (although that term is sometimes used to mean interpolation exclusively). There are a wide range of polynomial-based approximation techniques that are based on polynomial approximation (also known as stochastic collocation: 
+
+### Interpolation
+
 ### Polynomial Approximation + Regression
+
 ### Non-intrusive Polynomial Chaos
 
 ## Polynomial Approximation not based on point evaluations
