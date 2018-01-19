@@ -20,3 +20,8 @@ This includes:
 ## Polynomial Approximation not based on point evaluations
 
 ### Stochastic Galerkin Approximation 
+
+
+## Comparison Papers 
+
+- [Comparison of Surrogate-Based Uncertainty Quantification Methods for Computationally Expensive Simulators](http://epubs.siam.org/doi/abs/10.1137/15M1046812)
