@@ -25,12 +25,12 @@ Recent papers include:
 
 - [A Stochastic Collocation Method for Elliptic Partial Differential Equations with Random Input Data](http://epubs.siam.org/doi/abs/10.1137/050645142), Ivo Babuška, Fabio Nobile, and Raúl Tempone.
 
--[High-Order Collocation Methods for Differential Equations with Random Inputs](http://epubs.siam.org/doi/abs/10.1137/040615201), Dongbin Xiu and Jan S. Hesthaven.
+- [High-Order Collocation Methods for Differential Equations with Random Inputs](http://epubs.siam.org/doi/abs/10.1137/040615201), Dongbin Xiu and Jan S. Hesthaven.
 
--[A Sparse Grid Stochastic Collocation Method for Partial Differential Equations with Random Input Data](
+- [A Sparse Grid Stochastic Collocation Method for Partial Differential Equations with Random Input Data](
 http://epubs.siam.org/doi/abs/10.1137/060663660), F. Nobile, R. Tempone, and C. G. Webster.
 
--[An Anisotropic Sparse Grid Stochastic Collocation Method for Partial Differential Equations with Random Input Data](
+- [An Anisotropic Sparse Grid Stochastic Collocation Method for Partial Differential Equations with Random Input Data](
 http://epubs.siam.org/doi/abs/10.1137/070680540), F. Nobile, R. Tempone, and C. G. Webster.
 
 
