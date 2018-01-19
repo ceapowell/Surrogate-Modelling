@@ -6,7 +6,8 @@ Suggested Reading List on Core Topics
 
 
 ## Reproducing Kernel Hilbert Spaces
-- [Reproducing Kernel Hilbert Spaces for Parametric Partial Differential Equations] (http://epubs.siam.org/doi/10.1137/15M1026870) by .....
+- [Reproducing](http://epubs.siam.org/doi/10.1137/15M1026870) by .....
+
 - [words to] (https://arxiv.org/pdf/1403.1040.pdf) by ....
 
 ## Polynomial Approximation based on point evaluations
