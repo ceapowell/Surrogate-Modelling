@@ -2,7 +2,7 @@
 A collection of resources for the Surrogate Modelling Working Group for the INI Programme on UQ.
 
 
-Suggested Reading List on Core Topics
+Suggested Reading List on Core Topics. The Links below are to webpages where papers can be downloaded (if you have the appropriate permissions/subscription rights through your institution).
 
 
 ## Reproducing Kernel Hilbert Spaces
