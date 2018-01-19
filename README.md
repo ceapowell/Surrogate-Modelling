@@ -6,7 +6,7 @@ Suggested Reading List on Core Topics
 
 
 ## Reproducing Kernel Hilbert Spaces
-- [Reproducing](http://epubs.siam.org/doi/10.1137/15M1026870) by .....
+- [Reproducing Kernel Hilbert Spaces for Parametric Partial Differential Equations](http://epubs.siam.org/doi/10.1137/15M1026870) by Michael Griebel and Christian Rieger
 
 - [words to] (https://arxiv.org/pdf/1403.1040.pdf) by ....
 
