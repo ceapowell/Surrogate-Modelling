@@ -1,6 +1,8 @@
 # Surrogate-Modelling
 A collection of resources for the Surrogate Modelling Working Group for the INI Programme on UQ.
-Reading list for the Design working group at the INI UQ programme
+
+
+Suggested Reading List on Core Topics
 
 
 ## Reproducing Kernel Hilbert Spaces
