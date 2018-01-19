@@ -6,6 +6,9 @@ Suggested Reading List on Core Topics. The links below are to webpages where pap
 
 
 ## Reproducing Kernel Hilbert Spaces
+
+It has been suggested that the RKHS framework might offer a unified way to describe and understand several types of surrogate modelling techniques. Discus ......
+
 - [Reproducing Kernel Hilbert Spaces for Parametric Partial Differential Equations](http://epubs.siam.org/doi/10.1137/15M1026870), Michael Griebel & Christian Rieger
 
 - [Convergence Types and Rates in Generic Karhunen-Loe`ve Expansions with Applications to Sample Path Properties](https://arxiv.org/pdf/1403.1040.pdf), Ingo Steinwart
@@ -19,6 +22,7 @@ This includes:
 
 ## Polynomial Approximation not based on point evaluations
 
+An outlier in polynomial approximation?  Also known as non-intrusive polynomial chaos (if the polynomials chosen for the parameteric/random part are orthogonal)
 ### Stochastic Galerkin Approximation 
 
 
