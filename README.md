@@ -14,7 +14,7 @@ Recent papers include:
 
 - [Reproducing Kernel Hilbert Spaces for Parametric Partial Differential Equations(http://epubs.siam.org/doi/10.1137/15M1026870), Michael Griebel & Christian Rieger
 
-- [Convergence Types and Rates in Generic Karhunen-Loe`ve Expansions with Applications to Sample Path Properties(https://arxiv.org/pdf/1403.1040.pdf), Ingo Steinwart
+- [Convergence Types and Rates in Generic Karhunen-Loe`ve Expansions with Applications to Sample Path Properties (https://arxiv.org/pdf/1403.1040.pdf), Ingo Steinwart
 
 ## Polynomial Approximation based on point evaluations
 
