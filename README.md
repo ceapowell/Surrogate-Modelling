@@ -11,6 +11,8 @@ Suggested Reading List on Core Topics. The links below are to webpages where pap
 - [Convergence Types and Rates in Generic Karhunen-Loe`ve Expansions with Applications to Sample Path Properties](https://arxiv.org/pdf/1403.1040.pdf), Ingo Steinwart
 
 ## Polynomial Approximation based on point evaluations
+
+This includes: 
 ### Stochastic Collocation 
 ### Polynomial Approximation + Regression
 ### Non-intrusive Polynomial Chaos
