@@ -21,8 +21,12 @@ Recent papers include:
 ... also known as stochastic collocation (although that term is often used to mean interpolation exclusively). There are a wide range of polynomial-based approximation techniques that are constructed from point evaluations (computer model runs at particular choices of the input parameters), including interpolation, regression and non-intrusive forms of polynomial chaos approximation based on quadrature.
 
 
-
 ### Interpolation
+
+- [A Stochastic Collocation Method for Elliptic Partial Differential Equations with Random Input Data](http://epubs.siam.org/doi/abs/10.1137/050645142), Ivo Babuška, Fabio Nobile, and Raúl Tempone.
+
+
+Read More: http://epubs.siam.org/doi/abs/10.1137/050645142
 
 ### Regression
 
