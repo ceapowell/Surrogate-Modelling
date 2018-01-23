@@ -52,6 +52,8 @@ Stochastic Galerkin approximation is perhaps an outlier in polynomial approximat
 
 More soon .... 
 
+## Gaussian Process Emulation
+
 ## Comparison Papers 
 
 - [Comparison of Surrogate-Based Uncertainty Quantification Methods for Computationally Expensive Simulators](http://epubs.siam.org/doi/abs/10.1137/15M1046812), N. E. Owen, P. Challenor, P. P. Menon, and S. Bennani
