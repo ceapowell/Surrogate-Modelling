@@ -16,6 +16,7 @@ Suggested Reading List. The links below are to webpages where papers can be down
 - [Numerical Integration Using Sparse Grids](https://link.springer.com/article/10.1023/A:1019129717644), Thomas Gerstner, Michael Griebel (1998). 
 - [High Dimensional Polynomial Interpolation on Sparse Grids](https://link.springer.com/article/10.1023/A:1018977404843), Volker Barthelmann, Erich Novak, Klaus Ritter (2000).
 - Quadrature and Interpolation Formulas for Tensor Products of Certain Classes of Functions, Doklady Akademii Nauk SSSR, Volume 4, pages 240-243, Sergey Smolyak, (1963)
+- [SPINTREP: MATLAB code](http://people.sc.fsu.edu/%7Ejburkardt/m_src/spinterp/spinterp.html)
 
 
 ## Polynomial Approximation based on point evaluations
