@@ -34,7 +34,7 @@ Suggestions for papers .... ?
 ### Sparse grids (for interpolation/quadrature) 
 
 - [A low level introduction to Sparse Grids](http://people.sc.fsu.edu/~jburkardt/presentations/sandia_2007.pdf)
-- [pThomas Gerstner, Michael Griebel, Numerical Integration Using Sparse Grids, Numerical Algorithms, Volume 18, Number 3-4, January 1998, pages 209-232](https://link.springer.com/article/10.1023/A:1019129717644)
+- [Thomas Gerstner, Michael Griebel, Numerical Integration Using Sparse Grids, Numerical Algorithms, Volume 18, Number 3-4, January 1998, pages 209-232](https://link.springer.com/article/10.1023/A:1019129717644)
 
 ## Polynomial Approximation not based on point evaluations
 
