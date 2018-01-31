@@ -63,7 +63,7 @@ More soon ....
 It has been suggested that the RKHS framework might offer a unified way to describe and understand several types of surrogate modelling techniques. Discuss ......
 
 
-Recent papers include: 
+ RKHS ideas have been used recently in several works. For example, 
 
 - [Reproducing Kernel Hilbert Spaces for Parametric Partial Differential Equations](http://epubs.siam.org/doi/10.1137/15M1026870), Michael Griebel & Christian Rieger
 
