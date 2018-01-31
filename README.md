@@ -5,6 +5,14 @@ A collection of resources associated with discussions had by members of the Surr
 Suggested Reading List. The links below are to webpages where papers can be downloaded (if you have the appropriate permissions/subscription rights through your institution). Note - this page is a work in progress ....
 
 
+##  Background on Sparse grids (for interpolation/quadrature) 
+
+- [A low level introduction to Sparse Grids](http://people.sc.fsu.edu/~jburkardt/presentations/sandia_2007.pdf)
+- [Numerical Integration Using Sparse Grids](https://link.springer.com/article/10.1023/A:1019129717644), Thomas Gerstner, Michael Griebel (1998). 
+- [High Dimensional Polynomial Interpolation on Sparse Grids](https://link.springer.com/article/10.1023/A:1018977404843), Volker Barthelmann, Erich Novak, Klaus Ritter (2000).
+- Quadrature and Interpolation Formulas for Tensor Products of Certain Classes of Functions, Doklady Akademii Nauk SSSR, Volume 4, pages 240-243, Sergey Smolyak, (1963)
+
+
 ## Polynomial Approximation based on point evaluations
 
 ... also known as stochastic collocation (although that term is often used to mean interpolation exclusively). There are a wide range of polynomial-based approximation techniques that are constructed from point evaluations (computer model runs at particular choices of the input parameters), including interpolation, regression and non-intrusive forms of polynomial chaos approximation based on quadrature.
@@ -31,12 +39,6 @@ Suggestions for papers ..... ?
 
 Suggestions for papers .... ? 
 
-## Approximation Theory for Sparse grids (for interpolation/quadrature) 
-
-- [A low level introduction to Sparse Grids](http://people.sc.fsu.edu/~jburkardt/presentations/sandia_2007.pdf)
-- [Numerical Integration Using Sparse Grids](https://link.springer.com/article/10.1023/A:1019129717644), Thomas Gerstner, Michael Griebel (1998). 
-- [High Dimensional Polynomial Interpolation on Sparse Grids](https://link.springer.com/article/10.1023/A:1018977404843), Volker Barthelmann, Erich Novak, Klaus Ritter (2000).
-- Quadrature and Interpolation Formulas for Tensor Products of Certain Classes of Functions, Doklady Akademii Nauk SSSR, Volume 4, pages 240-243, Sergey Smolyak, (1963)
 
 ## Polynomial Approximation not based on point evaluations
 
