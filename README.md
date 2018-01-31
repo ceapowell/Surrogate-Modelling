@@ -5,6 +5,11 @@ A collection of resources associated with discussions had by members of the Surr
 Suggested Reading List. The links below are to webpages where papers can be downloaded (if you have the appropriate permissions/subscription rights through your institution). Note - this page is a work in progress ....
 
 
+## Comparison Papers 
+
+- [Comparison of Surrogate-Based Uncertainty Quantification Methods for Computationally Expensive Simulators](http://epubs.siam.org/doi/abs/10.1137/15M1046812), N. E. Owen, P. Challenor, P. P. Menon, and S. Bennani
+
+
 ##  Background on Sparse grids (for interpolation/quadrature) 
 
 - [A low level introduction to Sparse Grids](http://people.sc.fsu.edu/~jburkardt/presentations/sandia_2007.pdf)
@@ -64,6 +69,3 @@ Recent papers include:
 - [Convergence Types and Rates in Generic Karhunen-Loeve Expansions with Applications to Sample Path Properties](https://arxiv.org/pdf/1403.1040.pdf), Ingo Steinwart
 
 
-## Comparison Papers 
-
-- [Comparison of Surrogate-Based Uncertainty Quantification Methods for Computationally Expensive Simulators](http://epubs.siam.org/doi/abs/10.1137/15M1046812), N. E. Owen, P. Challenor, P. P. Menon, and S. Bennani
