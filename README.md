@@ -31,11 +31,12 @@ Suggestions for papers ..... ?
 
 Suggestions for papers .... ? 
 
-### Approximation Theory for Sparse grids (for interpolation/quadrature) 
+## Approximation Theory for Sparse grids (for interpolation/quadrature) 
 
 - [A low level introduction to Sparse Grids](http://people.sc.fsu.edu/~jburkardt/presentations/sandia_2007.pdf)
 - [Numerical Integration Using Sparse Grids](https://link.springer.com/article/10.1023/A:1019129717644), Thomas Gerstner, Michael Griebel (1998). 
 - [High Dimensional Polynomial Interpolation on Sparse Grids](https://link.springer.com/article/10.1023/A:1018977404843), Volker Barthelmann, Erich Novak, Klaus Ritter (2000).
+- [Quadrature and Interpolation Formulas for Tensor Products of Certain Classes of Functions], Doklady Akademii Nauk SSSR, Volume 4, pages 240-243, Sergey Smolyak, (1963)
 
 ## Polynomial Approximation not based on point evaluations
 
