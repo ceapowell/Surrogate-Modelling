@@ -10,7 +10,7 @@ Suggested Reading List. The links below are to webpages where papers can be down
 - [Comparison of Surrogate-Based Uncertainty Quantification Methods for Computationally Expensive Simulators](http://epubs.siam.org/doi/abs/10.1137/15M1046812), N. E. Owen, P. Challenor, P. P. Menon, and S. Bennani
 
 
-##  Background on Sparse grids (for interpolation/quadrature) 
+##  Background on sparse grids (for interpolation/quadrature) 
 
 - [A low level introduction to Sparse Grids](http://people.sc.fsu.edu/~jburkardt/presentations/sandia_2007.pdf)
 - [Numerical Integration Using Sparse Grids](https://link.springer.com/article/10.1023/A:1019129717644), Thomas Gerstner, Michael Griebel (1998). 
